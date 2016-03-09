@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[TECHcetera]]></title>
         <description><![CDATA[TECHcetera]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/techcetera/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 22:33:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 22:48:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/techcetera/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/985c6180-bf82-4588-8685-a501c40bca13.png">]]></description>
+            <link>https://thegrid.ai/techcetera/hola-este-es-el-nuevo-techcetera/index.html</link>
+            <guid isPermaLink="false">6e3ac62e-e9b4-44e9-bb3d-8cd11028001f</guid>
+            <pubDate>Wed, 09 Mar 2016 22:47:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5ecb0c9e-c463-47e1-a22e-cf7a9bd4c7ad.png">]]></description>
-            <link>undefinednoticias-de-android-lollipop-se-corona-como-1-y-marshmallo/index.html</link>
+            <link>https://thegrid.ai/techcetera/noticias-de-android-lollipop-se-corona-como-1-y-marshmallo/index.html</link>
             <guid isPermaLink="false">a19962bf-a3da-4f19-b3d6-e40380574111</guid>
             <pubDate>Wed, 09 Mar 2016 22:33:20 GMT</pubDate>
         </item>
