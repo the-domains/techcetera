@@ -1,0 +1,28 @@
+name: TECHcetera
+favicon: null
+layout_spectrum: 0.7116871634498239
+typography_spectrum: 0.8718583965674043
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.6357127446681261
+  lightness: 0.6024468801915646
+  saturation: 0.4217789832036942
+  rhythmicContrast: 0.1380769326351583
+purpose: []
